@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @paul-gardner-1999
-- 👀 I’m interested in compiler and development tooling
-- 🌱 I’m currently learning go, c#, python
-- 💞️ I’m looking to collaborate on any substantial project
-- 📫 How to reach me ...
+- Hi, I’m @paul-gardner-1999
+- I’m interested in backend web development
+- I have been known to code (Ba)sh/C/C++/C#/Golang/Groovy/Java/JavaScript/Lisp/Perl/Python
 
 <!---
 paul-gardner-1999/paul-gardner-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
